@@ -1,0 +1,31 @@
+<wpml-config> 
+    <admin-texts>
+        <key name="fluida_settings">
+			<key name="fluida_lpposts_more" />
+			<key name="fluida_lpslidershortcode" />
+			<key name="fluida_lpslidertitle" />
+			<key name="fluida_lpslidertext" />
+			<key name="fluida_lpblockmaintitle1" />
+			<key name="fluida_lpblockmaindesc1" />
+			<key name="fluida_lpblockmaintitle2" />
+			<key name="fluida_lpblockmaindesc2" />
+			<key name="fluida_lpboxmaintitle1" />
+			<key name="fluida_lpboxmaindesc1" />
+			<key name="fluida_lpboxreadmore1" />
+			<key name="fluida_lpboxmaintitle2" />
+			<key name="fluida_lpboxmaindesc2" />
+			<key name="fluida_lpboxreadmore2" />
+			<key name="fluida_lpboxmaintitle3" />
+			<key name="fluida_lpboxmaindes3" />
+			<key name="fluida_lpboxreadmore3" />
+			<key name="fluida_lpporttitle" />
+			<key name="fluida_lpportdesc" />
+			<key name="fluida_lpportreadmore" />
+			<key name="fluida_related_title" />
+			<key name="fluida_copyright" />
+			<key name="fluida_excerptdots" />
+			<key name="fluida_excerptcont" />
+			<key name="fluida_byself_text" />
+        </key>
+    </admin-texts>  
+</wpml-config>
